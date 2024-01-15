@@ -15,9 +15,6 @@ Hello there! 👋 I'm Valeriy, a passionate full-stack programming enthusiast cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ValeriyPavlov&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ValeriyPavlov&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ValeriyPavlov&icon=0&color=1)](https://visitcount.itsvg.in)
 
